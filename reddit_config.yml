@@ -1,11 +1,12 @@
 https : "https://old.reddit.com/"
 
-no_of_pages : 1
+no_of_pages : 10
 #provide a list of subreddits you want to scrape
-subreddits: [ "r/AMA", "r/explainlikeim5"]
+subreddits: [ "r/funny", "r/explainlikeim5","r/all", "r/memes", "r/dankmemes"]
+]
 
 # Sorting type, set to hot, new, rising, controversial, top, or gilded
 sort : "top" 
 
 # Sorting timespan, set to hour, week, month, year, or all.
-time : "all"
+time : "year"
